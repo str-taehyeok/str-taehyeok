@@ -8,7 +8,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-taehyeok&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Oracle](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=로고명&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-007396.svg?&style=for-the-badge&logo=로고명&logoColor=white)
 ![Spring](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=로고명&logoColor=white)
 ![HTML](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=로고명&logoColor=white)
 ![CSS](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=로고명&logoColor=white)
